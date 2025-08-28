@@ -60,8 +60,6 @@ A fun and interactive geography quiz game where players guess countries of the w
 ### Results
 ![Results](https://github.com/proobker/Geo_Quiz/raw/main/img/screenshot3.png)
 
-*(Place your screenshots in the `img/` folder for these links to display properly.)*
-
 ---
 
 ## Contribution
